@@ -7,7 +7,10 @@
      - ![image](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ff2678325-6f7b-4a25-b188-86c42030d6d5%2Fb5880f8a-d9c6-436f-bb1b-2f64d97007d0%2FUntitled.png%3FspaceId%3Df2678325-6f7b-4a25-b188-86c42030d6d5?table=block&id=2cb611ac-3a00-8050-8411-f3edd2726c4a&cache=v2)
 2. git의 3공간은 working directory, staging area, repository 이다.
     - 답 : O
-    - 이유 : working directory, staging area, git directory(repository)
+    - 이유 : git의 3공간에는
+      - 작업공간인 working directory
+      - 대기공간인 staging area(index)
+      - 커밋들이 담겨 있는 공간인 repositry(.git/)가 있다.
 3. github 에 버전을 저장하기 위해 git commit 명령어를 쓴다.
     - 답 : X
     - 이유 : git commit 명령어는 로컬 저장소에 저장하기 위함이다
