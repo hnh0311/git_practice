@@ -1,7 +1,10 @@
 # git 기초 Quiz
-1. git의 사전적 정의는 "(중앙) 버전 관리 프로그램"이다.
+## 1. git의 사전적 정의는 "(중앙) 버전 관리 프로그램"이다.
    - 답 : X
    - 이유 : 분산 버전 관리 프로그램이다.
+     - 중앙집권 : 중앙 서버 컴퓨터에 버전이 모여 있는 형태
+     - 분산 : 중앙 서버 / 각각의 컴퓨터 모두에 버전이 있는 상태
+     - ![image](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ff2678325-6f7b-4a25-b188-86c42030d6d5%2Fb5880f8a-d9c6-436f-bb1b-2f64d97007d0%2FUntitled.png%3FspaceId%3Df2678325-6f7b-4a25-b188-86c42030d6d5?table=block&id=2cb611ac-3a00-8050-8411-f3edd2726c4a&cache=v2)
 2. git의 3공간은 working directory, staging area, repository 이다.
     - 답 : O
     - 이유 : working directory, staging area, git directory(repository)
